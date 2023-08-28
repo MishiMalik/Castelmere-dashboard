@@ -1046,6 +1046,38 @@ thead {
 .comment-input-div {
   width: 75%;
 }
+.filter-input {
+  position: relative;
+  overflow: hidden;
+}
+.filter-input input {
+  padding: 7px 15px;
+  border-radius: 3px;
+  border: 1px solid #ddd;
+  font-size: 14px;
+  font-weight: 500;
+}
+.filter-search {
+  position: absolute;
+  top: 0px;
+  right: 0;
+  bottom: 0;
+  right: 0px;
+  background-color: var(--primary);
+  padding: 5px;
+  width: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0px 4px 4px 0;
+  border: none;
+}
+.filter-search i {
+  font-size: 16px;
+  color: white;
+
+  line-height: 0px;
+}
 @media only screen and (max-width: 500px) {
   .comment-input-div {
     width: 90%;
