@@ -1079,6 +1079,12 @@ thead {
   line-height: 0px;
 }
 @media only screen and (max-width: 500px) {
+  .filter-input{
+    width: 100%;
+  }
+  .filter-input input{
+    width: 100%;
+  }
   .comment-input-div {
     width: 90%;
   }
