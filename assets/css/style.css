@@ -9,7 +9,6 @@
   padding: 20px;
 }
 
-
 /* --------------------------------------------
 buttons
 --------------------------------------------------- */
@@ -79,7 +78,7 @@ cards
   padding-top: 10px;
 }
 .panel-card-total-users {
-  background-color: #7367f0  !important;
+  background-color: #7367f0 !important;
   border-radius: 8px;
   padding: 10px 16px;
   box-shadow: 0 1px 2px rgb(56 65 74 / 15%);
@@ -93,7 +92,7 @@ cards
   cursor: pointer;
 }
 .panel-card-start {
-  background-color: #7367f0  !important;
+  background-color: #7367f0 !important;
   border-radius: 8px;
   padding: 10px 16px;
   box-shadow: 0 1px 2px rgb(56 65 74 / 15%);
@@ -124,7 +123,7 @@ cards
 }
 
 .panel-card3 {
-  background-color: #E5AE4A !important;
+  background-color: #e5ae4a !important;
 }
 
 .panel-card4 {
@@ -193,7 +192,7 @@ sign in
 
 .sign-form {
   border: 1px solid #c5c5c5;
-  padding:20px 30px;
+  padding: 20px 30px;
   border-radius: 4px;
   width: 478px;
   background-color: white;
@@ -348,7 +347,6 @@ input:focus {
 
 .dataTables_length {
   font-size: 14px;
- 
 }
 
 .dataTables_filter {
@@ -360,8 +358,8 @@ input:focus {
   font-size: 16px;
   /* display: none; */
 }
-#dashboard-table_paginate{
-    margin-top: 20px !important;
+#dashboard-table_paginate {
+  margin-top: 20px !important;
 }
 div.dataTables_wrapper {
   width: 100%;
@@ -391,13 +389,13 @@ div.dataTables_wrapper {
 
 .icons a {
   font-size: 16px;
-  color: #7367f0 ;
+  color: #7367f0;
   margin-right: 10px;
 }
 
 .icons button {
   font-size: 16px;
-  color: #D2A44A;
+  color: #d2a44a;
   border: none;
   background-color: transparent;
   margin-left: -5px;
@@ -426,11 +424,11 @@ table.dataTable tbody td {
 }
 
 .dataTables_wrapper .dataTables_paginate .paginate_button:hover {
-  background-color: #D2A44A  !important;
+  background-color: #d2a44a !important;
   color: white !important;
 }
- .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover{
-    color: white !important;
+.dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
+  color: white !important;
 }
 .products-table-wrapper {
   padding: 30px 40px;
@@ -472,7 +470,7 @@ table.dataTable tbody td {
 }
 
 thead {
-  background-color: #D2A44A ;
+  background-color: #d2a44a;
 }
 
 .total-card {
@@ -553,7 +551,7 @@ thead {
 
 .see-all {
   width: 100%;
-  background-color: #D2A44A ;
+  background-color: #d2a44a;
   color: white;
   font-size: 18px;
   font-weight: 500;
@@ -1058,6 +1056,7 @@ thead {
   width: 100px;
   border-radius: 100%;
 }
-.dropdown-item.active, .dropdown-item:active{
-    background-color: #0D0828;
+.dropdown-item.active,
+.dropdown-item:active {
+  background-color: #0d0828;
 }
